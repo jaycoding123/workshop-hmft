@@ -1,0 +1,4 @@
+Tugas 1 On Ramp :
+- Lakukan Fork dari Repository yang ada di workshop Git: https://github.com/jaycoding123/workshop-hmft
+- Dari fork tersebut, buat pull request
+- Isi pull request, merupakan file [UsernameGit].txt dengan isi terserah
